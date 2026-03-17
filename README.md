@@ -42,5 +42,7 @@ Busco minha primeira oportunidade como Desenvolvedor Front-end Júnior, onde eu 
 
 ## 📫 Contato
 
-- 📧 Email: joaoprincesval@gmail.com
+📧 Email: joaoprincesval@gmail.com
+
+📱 WhatsApp: +55 21 97233-4487
 
